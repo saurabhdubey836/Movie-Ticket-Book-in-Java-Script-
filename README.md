@@ -1,1 +1,1 @@
-# Movie-Ticket-Book-in-Java-Script-
+# Movie-Ticket-Booking-in-Java-Script-
